@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Chandresh",
+      "lastName": "Vithani",
+      "image": "img1",
+      "address": "addr1"
+    },
+    {
+      "id": "2",
+      "firstName": "Ravi",
+      "lastName": "Vithani",
+      "image": "img2",
+      "address": "addr2"
+    }
+  ],
+  "images": [
+    {
+      "id": "img1",
+      "url": "https://avatars.githubusercontent.com/u/33287130?v=4"
+    },
+    {
+      "id": "img2",
+      "url": "https://user-images.githubusercontent.com/59374587/153518639-7a26f075-9621-4c47-bae8-e46c957d09a7.png"
+    }
+  ],
+  "addresses": [
+    {
+      "id": "addr1",
+      "latitude": 21.2305,
+      "longitude": 72.8057
+    },
+    {
+      "id": "addr2",
+      "latitude": 39.6172,
+      "longitude": 104.9508
+    }
+  ]
+}
